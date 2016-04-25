@@ -8,7 +8,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 import retrofit2.http.GET;
 
 /**
- * Created by Tabriz on 24-Apr-16.
+ * Created by Rubayet on 24-Apr-16.
  */
 public interface WeatherAPI {
 
